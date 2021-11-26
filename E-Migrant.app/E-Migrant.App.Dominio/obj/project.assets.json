@@ -8,20 +8,25 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Adrian\\.nuget\\packages\\": {}
+    "C:\\Users\\yeins\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\HACKATON\\E-Migrant.app\\E-Migrant.App.Dominio\\E-Migrant.App.Dominio.csproj",
+      "projectUniqueName": "d:\\Hackaton2022\\HACKATON\\E-Migrant.app\\E-Migrant.App.Dominio\\E-Migrant.App.Dominio.csproj",
       "projectName": "E-Migrant.App.Dominio",
-      "projectPath": "C:\\HACKATON\\E-Migrant.app\\E-Migrant.App.Dominio\\E-Migrant.App.Dominio.csproj",
-      "packagesPath": "C:\\Users\\Adrian\\.nuget\\packages\\",
-      "outputPath": "C:\\HACKATON\\E-Migrant.app\\E-Migrant.App.Dominio\\obj\\",
+      "projectPath": "d:\\Hackaton2022\\HACKATON\\E-Migrant.app\\E-Migrant.App.Dominio\\E-Migrant.App.Dominio.csproj",
+      "packagesPath": "C:\\Users\\yeins\\.nuget\\packages\\",
+      "outputPath": "d:\\Hackaton2022\\HACKATON\\E-Migrant.app\\E-Migrant.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Adrian\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\yeins\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
